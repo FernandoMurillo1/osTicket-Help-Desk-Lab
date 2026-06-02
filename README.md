@@ -89,7 +89,7 @@ Resolved 10 simulated support tickets across all departments and SLA tiers, docu
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](screenshots/01-dashboard.png)
+![Agents](screenshots/01-agents.png)
 
 ### Ticket Queue
 ![Ticket Queue](screenshots/02-ticket-queue.png)
