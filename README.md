@@ -98,13 +98,13 @@ Resolved 10 simulated support tickets across all departments and SLA tiers, docu
 ![Ticket Detail](screenshots/03-ticket-detail.png)
 
 ### Departments
-![Departments](screenshots/04-departments.png)
+![Departments](screenshots/06-departments.png)
 
 ### Help Topics
-![Help Topics](screenshots/05-help-topics.png)
+![Help Topics](screenshots/04-help-topics.png)
 
 ### SLA Plans
-![SLA Plans](screenshots/06-sla-plans.png)
+![SLA Plans](screenshots/05-sla-plans.png)
 
 ### User Directory
 ![Users](screenshots/07-users.png)
