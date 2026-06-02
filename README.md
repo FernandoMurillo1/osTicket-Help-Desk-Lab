@@ -4,7 +4,7 @@ A fully deployed IT help desk ticketing system built on Ubuntu Server 24.04, sim
 
 ---
 
-## 🖥️ Environment
+## ️ Environment
 
 | Component | Details |
 |---|---|
@@ -17,7 +17,7 @@ A fully deployed IT help desk ticketing system built on Ubuntu Server 24.04, sim
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Deploy and configure a production-style helpdesk ticketing system from scratch
 - Simulate real IT support workflows including ticket intake, triage, escalation, and resolution
@@ -27,7 +27,7 @@ A fully deployed IT help desk ticketing system built on Ubuntu Server 24.04, sim
 
 ---
 
-## ⚙️ Installation & Configuration
+## ️ Installation & Configuration
 
 ### Stack Deployed
 - Ubuntu Server 24.04 VM provisioned with 4GB RAM and 25GB disk
@@ -39,7 +39,7 @@ A fully deployed IT help desk ticketing system built on Ubuntu Server 24.04, sim
 
 ---
 
-## 🏗️ Help Desk Structure
+## ️ Help Desk Structure
 
 ### Departments
 | Department | Purpose |
@@ -65,7 +65,7 @@ A fully deployed IT help desk ticketing system built on Ubuntu Server 24.04, sim
 
 ---
 
-## 🎫 Ticket Simulations
+##  Ticket Simulations
 
 Resolved 10 simulated support tickets across all departments and SLA tiers, documenting each resolution with internal notes following structured helpdesk procedures.
 
@@ -86,7 +86,7 @@ Resolved 10 simulated support tickets across all departments and SLA tiers, docu
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Dashboard Overview
 ![Agents](screenshots/01-agents.png)
@@ -111,7 +111,7 @@ Resolved 10 simulated support tickets across all departments and SLA tiers, docu
 
 ---
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
 - **IT Help Desk Operations** — ticket intake, triage, escalation, and resolution
 - **SLA Management** — enforcing response time policies across severity tiers
@@ -123,7 +123,7 @@ Resolved 10 simulated support tickets across all departments and SLA tiers, docu
 
 ---
 
-## 📋 Resume Bullets Generated From This Lab
+##  Resume Bullets Generated From This Lab
 
 ```
 IT Ticketing System Lab (osTicket)
@@ -139,7 +139,7 @@ IT Ticketing System Lab (osTicket)
 
 ---
 
-## 🔗 Related Projects
+##  Related Projects
 
 - [Active Directory Home Lab](https://github.com/FernandoMurillo1/Active-Directory-)
 - [Wazuh SIEM Lab](https://github.com/FernandoMurillo1/Wazuh-SIEM-Lab)
